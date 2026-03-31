@@ -1,4 +1,5 @@
-/.vscode/
+# /.vscode/
+/.vscode/slurm/temp/
 
 # Python-generated files
 __pycache__/

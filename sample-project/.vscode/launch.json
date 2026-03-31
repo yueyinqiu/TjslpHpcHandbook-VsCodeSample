@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: cpui138:50565",
+            "type": "debugpy",
+            "request": "attach",
+            "connect": {
+                "host": "cpui138",
+                "port": 50565
+            }
+        }
+    ]
+}
